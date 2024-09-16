@@ -112,9 +112,9 @@ Our team is highly engaged and committed to delivering projects of exceptional q
 
 <br>
 
-|      Raul Albuquerque         |       Alef Adonais        |      Deyweson Almeida        |   
+|      David Robert         |       Alef Adonais        |      Deyweson Almeida        |   
 |:-------------------------:|:-------------------------:|:-------------------------:|
-| ![Produto](./github/images/1.jpg)  | ![Produto](./github/images/2.jpg)  | ![Produto](./github/images/3.jpg)  |
+| ![Produto](https://avatars.githubusercontent.com/u/54132069?v=4)  | ![Produto](./github/images/2.jpg)  | ![Produto](./github/images/3.jpg)  |
 | Team Leader | Front-End Developer | Back-End Developer |
 | [![Techs](./github/icons/linkedin.png)](https://www.linkedin.com/in/dev-raul-albuquerque) [![Techs](./github/icons/github.png)](https://github.com/Raul-Albuquerque) | [![Linkedin](./github/icons/linkedin.png)](https://www.linkedin.com/in/alef-adonais/) [![github](./github/icons/github.png)](https://github.com/alefadonais5) | [![linkedin](./github/icons/linkedin.png)](https://www.linkedin.com/in/deyweson/) [![github](./github/icons/github.png)](https://github.com/Deyweson) |
 
